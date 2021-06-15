@@ -12,6 +12,6 @@ resource "aws_directory_service_directory" "directory" {
   }
 
   tags = {
-    "Name" = "ad.inhancesc.com"
+    "Name" = "ad.yourdomain.com"
   }
 }
