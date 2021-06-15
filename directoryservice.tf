@@ -1,6 +1,6 @@
 # Create Microsoft AD for Remote Desktop Gateway connections
 resource "aws_directory_service_directory" "directory" {
-  name = "ad.inhancesc.com"
+  name = "ad.yourdomain.com"
   password = "Hdnthu8746Hgtd"
   edition = "Standard"
   type = "MicrosoftAD"
