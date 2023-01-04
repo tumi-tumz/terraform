@@ -1,4 +1,4 @@
 policy "bridgecrew" {
-        source            = "{PATH_TO_FILE}" #To be edited
+        source            = "./bridgecrew.sentinel"
         enforcement_level = "hard-mandatory"
 }
